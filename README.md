@@ -13,5 +13,3 @@
 - [Balloon Pumping Simulator '26 Remake](https://alex-hardro.itch.io/dev-3-balloon-pumping-simulator-26-remake)
 - [Emoji Math Deluxe](https://alex-hardro.itch.io/emoji-math-deluxe)
 - [Sir Robin Hood Versus Sir Guy of Gisborne](https://alex-hardro.itch.io/sir-robin-hood-versus-sir-guy-of-gisborne)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
