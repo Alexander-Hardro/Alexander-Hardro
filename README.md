@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/Alexander-Hardro">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Game Developer</a></h1>
 
-<!--
-**Alexander-Hardro/Alexander-Hardro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Attack Lab</b>
+  - [Assembly Language]
+- <b>Closed Hashing</b>
+  - [Algorithms]
+- <b>Thread Mailboxes</b>
+  - [Operating Systems]
+<h2>📺 Game Development Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Balloon Pumping Simulator '26 Remake](https://alex-hardro.itch.io/dev-3-balloon-pumping-simulator-26-remake)
+- [Emoji Math Deluxe](https://alex-hardro.itch.io/emoji-math-deluxe)
+- [Sir Robin Hood Versus Sir Guy of Gisborne](https://alex-hardro.itch.io/sir-robin-hood-versus-sir-guy-of-gisborne)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
