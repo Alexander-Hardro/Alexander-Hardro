@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/Alexander-Hardro">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Game Developer</a></h1>
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/Alexander-Hardro">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
