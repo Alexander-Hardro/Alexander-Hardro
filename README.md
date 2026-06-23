@@ -45,7 +45,7 @@
 
 
 
-<h2>☎️ Contacts:</h2>
+<h2>☎️ Contacts (Images Are Linked):</h2>
 
 <a href="mailto:ahardro@comcast.net" target="_blank">
   <img width="100" height="100"
